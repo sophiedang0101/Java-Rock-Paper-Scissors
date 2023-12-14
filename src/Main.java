@@ -27,7 +27,7 @@ public class Main {
         int userWins = 0;
         int computerWins = 0;
 
-        System.out.println("How many rounds do you want to play?");
+        System.out.println("Hello! How many rounds do you want to play?");
         int numberOfRounds = sc.nextInt();
         sc.nextLine();
 
